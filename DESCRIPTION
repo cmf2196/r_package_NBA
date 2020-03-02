@@ -3,7 +3,10 @@ Title: This package provides three functions for interpretting the provided NBA 
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Connor",
-           family = "Finn")
+           family = "Finn",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: None
 Encoding: UTF-8
