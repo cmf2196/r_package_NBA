@@ -1,12 +1,6 @@
 Package: NBA
 Title: This package provides three functions for interpretting the provided NBA data
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "connor",
-           family = "finn",
-           role = c("aut", "cre"),
-           email = "cfinn@fand.edu",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: None
 Encoding: UTF-8
